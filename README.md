@@ -1,2 +1,1 @@
-# MONO-Vehicle
-Mono Projekt - Vehicle 
+Mono Praksa - Vehicle Projekt

@@ -1,0 +1,81 @@
+C:\Users\Miran\Desktop\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\bin\Debug\Vehicle.Service.Common.dll
+C:\Users\Miran\Desktop\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\bin\Debug\Vehicle.Service.Common.pdb
+C:\Users\Miran\Desktop\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.dll
+C:\Users\Miran\Desktop\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.pdb
+C:\Users\Miran\Desktop\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\bin\Debug\Vehicle.Model.dll
+C:\Users\Miran\Desktop\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\bin\Debug\Vehicle.Model.Common.dll
+C:\Users\Miran\Desktop\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\bin\Debug\Vehicle.Model.pdb
+C:\Users\Miran\Desktop\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\bin\Debug\Vehicle.Model.Common.pdb
+C:\Users\Miran\Desktop\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csprojAssemblyReference.cache
+C:\Users\Miran\Desktop\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csproj.CopyComplete
+C:\Users\Miran\source\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\bin\Debug\Vehicle.Service.Common.dll
+C:\Users\Miran\source\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\bin\Debug\Vehicle.Service.Common.pdb
+C:\Users\Miran\source\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\bin\Debug\Vehicle.Model.dll
+C:\Users\Miran\source\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\bin\Debug\Vehicle.Model.Common.dll
+C:\Users\Miran\source\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\bin\Debug\Vehicle.Model.pdb
+C:\Users\Miran\source\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\bin\Debug\Vehicle.Model.Common.pdb
+C:\Users\Miran\source\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csprojAssemblyReference.cache
+C:\Users\Miran\source\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csproj.CopyComplete
+C:\Users\Miran\source\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.dll
+C:\Users\Miran\source\Vehicle\Vehicle.WebApi\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.pdb
+C:\Users\Student\Desktop\New folder (2)\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Service.Common.dll
+C:\Users\Student\Desktop\New folder (2)\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Service.Common.pdb
+C:\Users\Student\Desktop\New folder (2)\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Model.dll
+C:\Users\Student\Desktop\New folder (2)\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Model.Common.dll
+C:\Users\Student\Desktop\New folder (2)\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Model.pdb
+C:\Users\Student\Desktop\New folder (2)\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Model.Common.pdb
+C:\Users\Student\Desktop\New folder (2)\vehicle\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\New folder (2)\vehicle\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\New folder (2)\vehicle\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csproj.CopyComplete
+C:\Users\Student\Desktop\New folder (2)\vehicle\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.dll
+C:\Users\Student\Desktop\New folder (2)\vehicle\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.pdb
+C:\Users\Miran\Desktop\vehicle2\Vehicle.Service.Common\bin\Debug\Vehicle.Service.Common.dll
+C:\Users\Miran\Desktop\vehicle2\Vehicle.Service.Common\bin\Debug\Vehicle.Service.Common.pdb
+C:\Users\Miran\Desktop\vehicle2\Vehicle.Service.Common\bin\Debug\Vehicle.Model.Common.dll
+C:\Users\Miran\Desktop\vehicle2\Vehicle.Service.Common\bin\Debug\Vehicle.Model.dll
+C:\Users\Miran\Desktop\vehicle2\Vehicle.Service.Common\bin\Debug\Vehicle.Model.Common.pdb
+C:\Users\Miran\Desktop\vehicle2\Vehicle.Service.Common\bin\Debug\Vehicle.Model.pdb
+C:\Users\Miran\Desktop\vehicle2\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csprojAssemblyReference.cache
+C:\Users\Miran\Desktop\vehicle2\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csproj.CopyComplete
+C:\Users\Miran\Desktop\vehicle2\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.dll
+C:\Users\Miran\Desktop\vehicle2\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.pdb
+C:\Users\Miran\Desktop\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Service.Common.dll
+C:\Users\Miran\Desktop\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Service.Common.pdb
+C:\Users\Miran\Desktop\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Model.Common.dll
+C:\Users\Miran\Desktop\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Model.dll
+C:\Users\Miran\Desktop\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Model.Common.pdb
+C:\Users\Miran\Desktop\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Model.pdb
+C:\Users\Miran\Desktop\vehicle\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csprojAssemblyReference.cache
+C:\Users\Miran\Desktop\vehicle\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csproj.CopyComplete
+C:\Users\Miran\Desktop\vehicle\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.dll
+C:\Users\Miran\Desktop\vehicle\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.pdb
+C:\Users\Miran\Desktop\bazni projekt\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Service.Common.dll
+C:\Users\Miran\Desktop\bazni projekt\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Service.Common.pdb
+C:\Users\Miran\Desktop\bazni projekt\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Model.Common.dll
+C:\Users\Miran\Desktop\bazni projekt\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Model.dll
+C:\Users\Miran\Desktop\bazni projekt\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Model.Common.pdb
+C:\Users\Miran\Desktop\bazni projekt\vehicle\Vehicle.Service.Common\bin\Debug\Vehicle.Model.pdb
+C:\Users\Miran\Desktop\bazni projekt\vehicle\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csprojAssemblyReference.cache
+C:\Users\Miran\Desktop\bazni projekt\vehicle\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csproj.CopyComplete
+C:\Users\Miran\Desktop\bazni projekt\vehicle\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.dll
+C:\Users\Miran\Desktop\bazni projekt\vehicle\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.pdb
+C:\Users\Miran\Desktop\Praksa2020-g01\Vehicle.Service.Common\bin\Debug\Vehicle.Service.Common.dll
+C:\Users\Miran\Desktop\Praksa2020-g01\Vehicle.Service.Common\bin\Debug\Vehicle.Service.Common.pdb
+C:\Users\Miran\Desktop\Praksa2020-g01\Vehicle.Service.Common\bin\Debug\Vehicle.Model.Common.dll
+C:\Users\Miran\Desktop\Praksa2020-g01\Vehicle.Service.Common\bin\Debug\Vehicle.Model.dll
+C:\Users\Miran\Desktop\Praksa2020-g01\Vehicle.Service.Common\bin\Debug\Vehicle.Model.Common.pdb
+C:\Users\Miran\Desktop\Praksa2020-g01\Vehicle.Service.Common\bin\Debug\Vehicle.Model.pdb
+C:\Users\Miran\Desktop\Praksa2020-g01\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csprojAssemblyReference.cache
+C:\Users\Miran\Desktop\Praksa2020-g01\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csproj.CopyComplete
+C:\Users\Miran\Desktop\Praksa2020-g01\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.dll
+C:\Users\Miran\Desktop\Praksa2020-g01\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.pdb
+C:\Users\Miran\Desktop\proba\Praksa2020-g01\Vehicle.Service.Common\bin\Debug\Vehicle.Service.Common.dll
+C:\Users\Miran\Desktop\proba\Praksa2020-g01\Vehicle.Service.Common\bin\Debug\Vehicle.Service.Common.pdb
+C:\Users\Miran\Desktop\proba\Praksa2020-g01\Vehicle.Service.Common\bin\Debug\Vehicle.Model.Common.dll
+C:\Users\Miran\Desktop\proba\Praksa2020-g01\Vehicle.Service.Common\bin\Debug\Vehicle.Model.dll
+C:\Users\Miran\Desktop\proba\Praksa2020-g01\Vehicle.Service.Common\bin\Debug\Vehicle.Model.Common.pdb
+C:\Users\Miran\Desktop\proba\Praksa2020-g01\Vehicle.Service.Common\bin\Debug\Vehicle.Model.pdb
+C:\Users\Miran\Desktop\proba\Praksa2020-g01\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csprojAssemblyReference.cache
+C:\Users\Miran\Desktop\proba\Praksa2020-g01\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.csproj.CopyComplete
+C:\Users\Miran\Desktop\proba\Praksa2020-g01\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.dll
+C:\Users\Miran\Desktop\proba\Praksa2020-g01\Vehicle.Service.Common\obj\Debug\Vehicle.Service.Common.pdb
